@@ -87,8 +87,6 @@ Given an array of integers and a target sum, determine if there exists a contigu
 Given a string, transform it based on the following rules:
 
 - If the length of the string is divisible by 3, reverse the entire string.
-- If the length of the string is divisible by 5, replace each character with its ASCII code.
-- If the length of the string is divisible by both 3 and 5 (i.e., divisible by 15), perform both operations in the order specified above.
 
 ## License
 
